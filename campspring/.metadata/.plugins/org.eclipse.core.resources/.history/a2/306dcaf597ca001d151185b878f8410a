@@ -1,0 +1,14 @@
+package kodlama.kodlama.io.Devs.dataAccess.abstracts;
+
+public interface LanguageRepository {
+	void add(Language language);
+
+	void delete(int id);
+
+	void update(Language language);
+
+	Language getById(int id);
+
+	List<Language> getAll();
+
+}

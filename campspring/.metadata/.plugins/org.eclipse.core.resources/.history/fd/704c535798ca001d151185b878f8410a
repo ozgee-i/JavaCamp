@@ -1,0 +1,7 @@
+package kodlama.kodlama.io.Devs.dataAccess.concretes;
+
+import kodlama.kodlama.io.Devs.dataAccess.abstracts.LanguageRepository;
+
+public class InMemoryLanguageRepository implements LanguageRepository {
+
+}

@@ -1,0 +1,5 @@
+package kodlama.kodlama.io.Devs.dataAccess.concretes;
+
+public class InMemoryLanguageRepository {
+
+}
